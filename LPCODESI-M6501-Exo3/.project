@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>LPCODESI-M6501-Exo3.1</name>
+	<name>LPCODESI-M6501-Exo3</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,14 +13,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-=======
-	<name>LPCODESI-M6501-Exo3</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-	</buildSpec>
-	<natures>
->>>>>>> branch 'master' of https://github.com/LDisarbois/LPCODESI-M6501-Exo3.git
 	</natures>
 </projectDescription>
